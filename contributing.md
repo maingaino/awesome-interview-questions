@@ -26,7 +26,7 @@ Thank you for your suggestions!
 
 ## Creating your own awesome list
 
-To create your own list, check out the [instructions](create-list.md).
+To create your own list, check out the [instructions](create-lihttps://copilot-workspace.githubnext.com/DopplerHQ/awesome-interview-questions/tree/bvallelunga-low-quality?shareId=8dfbb75b-43b3-4dbc-ba66-984dc6b5a03ast.md).
 
 ## Adding something to an awesome list
 
